@@ -1,2 +1,0 @@
-[ "amazon__associate_2023" ]
-[ "frida.cuty" ]
